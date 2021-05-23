@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#game-buttons{
+    max-width: 500px;
+    display: flex;
+    flex-direction: row;
+}
+.game-button img{
+    max-width: 100%;
+    position: relative;
+    background-color: white;
+    color: white;
+}
